@@ -1,0 +1,13 @@
+
+
+MenuListStyle{
+
+ display: flex;
+ flex-flow: row wrap;
+ width : 100%;
+ margin: auto;
+}
+MenuListStyle:hover,
+MenuListStyle:active{
+    background-color :blanchedalmond
+}

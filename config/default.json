@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://simon:avatar@cluster0-kerg8.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "avaterGroup"
+}

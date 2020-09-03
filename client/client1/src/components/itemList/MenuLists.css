@@ -1,0 +1,6 @@
+.MenuLists {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    margin: auto;
+}
